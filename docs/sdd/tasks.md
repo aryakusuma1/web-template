@@ -16,8 +16,8 @@
 **Kriteria selesai:** struktur dan versi teknologi tercatat; rahasia dan file hasil build tidak dilacak.
 
 ## Tahap 1 — Bootstrap Repositori
-- [ ] T1.1 Buat proyek Vue 3 + TypeScript + Vite di `frontend/`.
-- [ ] T1.2 Pasang dan konfigurasi Vue Router.
+- [x] T1.1 Buat proyek Vue 3 + TypeScript + Vite di `frontend/`.
+- [x] T1.2 Pasang dan konfigurasi Vue Router.
 - [ ] T1.3 Pasang dan konfigurasi Tailwind CSS sesuai versi yang dipilih.
 - [ ] T1.4 Pasang Axios dan buat konfigurasi klien API terpusat.
 - [ ] T1.5 Buat proyek Laravel di `backend/`.
